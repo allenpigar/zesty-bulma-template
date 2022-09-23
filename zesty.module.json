@@ -1,1 +1,8 @@
-{"name":"Simple Blog with Bulma CSS","reference-name":"simple_blog with bulma css","schema":"schema.yaml","settings":"settings.yaml","style-variables":"style-variables.yaml"}
+{
+  "name": "Simple Blog with Bulma CSS",
+  "reference-name": "simple_blog with bulma css",
+  "schema": "schema.yaml",
+  "settings": "settings.yaml",
+  "head-tags": "head-tags.yaml",
+  "style-variables": "style-variables.yaml"
+}
