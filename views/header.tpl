@@ -1,6 +1,6 @@
 <nav class="navbar is-transparent is-fixed-top">
   <div class="navbar-brand">
-    <a class="navbar-item" href="https://bulma.io">
+    <a class="navbar-item" href="/">
       <img src="{{globals.logo.getImage()}}?w=28" alt="{{globals.site_name}}" width="28" height="28">
     </a>
     <div class="navbar-burger" data-target="navbarExampleTransparentExample">
@@ -16,7 +16,7 @@
         Home
       </a>
       <div class="navbar-item has-dropdown is-hoverable">
-        <a class="navbar-link" href="https://bulma.io/documentation/overview/start/">
+        <a class="navbar-link" href="#">
           Lastest Articles
         </a>
         <div class="navbar-dropdown is-boxed">
@@ -32,7 +32,7 @@
         <div class="field is-grouped">
          
           <p class="control">
-            <a class="button is-secondary" href="https://www.zesty.io/join/">
+            <a class="button is-secondary" target="_blank" href="https://www.zesty.io/join/">
               <span class="icon">
                 <i class="fa fa-rocket"></i>
               </span>
